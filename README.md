@@ -33,5 +33,5 @@ Matematiksel manipülasyonlar sonucu piksel değerlerinin 8-bitlik renk aralığ
 
 ## 👨‍💻 Geliştirici
 **Ali Eren Balıkçı**
-   ```bash
-   git clone [https://github.com/kullanici-adiniz/js-image-processing.git](https://github.com/kullanici-adiniz/js-image-processing.git)
+  
+   
