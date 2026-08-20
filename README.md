@@ -27,10 +27,11 @@ Matematiksel manipülasyonlar sonucu piksel değerlerinin 8-bitlik renk aralığ
 * **Vanilla DOM Manipulation:** Harici bir framework (React/Vue vb.) kullanılmadan sağlanan dinamik durum (state) yönetimi ve olay dinleyicileri (event listeners).
 * **CSS3:** Flexbox tabanlı, duyarlı (responsive) ve modern 'Dark Mode' arayüz tasarımı.
 
-## 💻 Kurulum ve Kullanım
+**Yerel Ortamda Çalıştırmak İçin:**
+1. Projenin kodlarını içeren dosyayı `.html` uzantısıyla (örneğin `index.html`) bilgisayarınıza kaydedin.
+2. Dosyaya çift tıklayarak favori web tarayıcınızda açın ve kullanmaya başlayın.
 
-Proje herhangi bir sunucu (backend), derleyici (bundler) veya bağımlılık (npm package) gerektirmez. Doğrudan tarayıcıda çalıştırılabilir.
-
-1. Proje dosyalarını klonlayın:
+## 👨‍💻 Geliştirici
+**Ali Eren Balıkçı**
    ```bash
    git clone [https://github.com/kullanici-adiniz/js-image-processing.git](https://github.com/kullanici-adiniz/js-image-processing.git)
